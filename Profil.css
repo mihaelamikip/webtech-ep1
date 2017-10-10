@@ -1,0 +1,26 @@
+body{
+    background-color: #32b5b5;
+}
+h1{
+    float:right;
+    color:#8e2746;
+    background-color:#8af1f7;
+    padding:7px;
+    margin-right:270px;
+}
+
+img{
+    float:left;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+ul{
+    font-family: 'Game of Thrones';
+    float:left;
+}
+
+p2{
+    font-style: italic;
+    font-family: 'Monotype Cosiva';
+}
